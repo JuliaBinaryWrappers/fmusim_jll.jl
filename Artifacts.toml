@@ -1,42 +1,42 @@
 [[fmusim]]
 arch = "aarch64"
-git-tree-sha1 = "2296c1c1a52b94838ea81556deb0f5f2c1768afb"
+git-tree-sha1 = "b4da28e5d19fc6696e0ffab2283dabc663fbb85a"
 os = "macos"
 
     [[fmusim.download]]
-    sha256 = "104c83e2c77d2103d7f05c6da51c54f24a95f4a9a6565ced7d1ae0d3f2f18076"
-    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.0.39001+0/fmusim.v0.0.39001.aarch64-apple-darwin.tar.gz"
+    sha256 = "0376f1dff91a38f0bb9c8242ffb3bd843d06e1711ac9f085114f32ad78c6b69c"
+    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.aarch64-apple-darwin.tar.gz"
 [[fmusim]]
 arch = "aarch64"
-git-tree-sha1 = "b78e7c0b288d430eeb9f682ca4f867fa21aebc01"
+git-tree-sha1 = "db9111eab13cda8559b7c12f528a43243afe373a"
 libc = "glibc"
 os = "linux"
 
     [[fmusim.download]]
-    sha256 = "a25a5e3b3909694835a1cfcb235dff26f40f826ce826c7ec4c62af2b3057684d"
-    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.0.39001+0/fmusim.v0.0.39001.aarch64-linux-gnu.tar.gz"
+    sha256 = "bc9f5ae16b8cfbefcdfb60136896f82d3187c03689d15fccdc5cf965d6bd5ad6"
+    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.aarch64-linux-gnu.tar.gz"
 [[fmusim]]
 arch = "x86_64"
-git-tree-sha1 = "221238207c47a1c2fa582e03da39de8f51941add"
+git-tree-sha1 = "e86413d1c49c25bb75d153216d9405b3b23b70db"
 os = "macos"
 
     [[fmusim.download]]
-    sha256 = "31165915ae2bba52cb48efc98172c46eca168816dd38bfe9ea7754bf1acda880"
-    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.0.39001+0/fmusim.v0.0.39001.x86_64-apple-darwin.tar.gz"
+    sha256 = "252ae6ee20254dac681e4efb76d5bd7038fc754c61ef955ed8ddcc819cb2a735"
+    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.x86_64-apple-darwin.tar.gz"
 [[fmusim]]
 arch = "x86_64"
-git-tree-sha1 = "3f4e16c008c4077a3770fe6bd50327870edf0993"
+git-tree-sha1 = "644c54497b8f3e3f9acecff49b264e9a0414ab2a"
 libc = "glibc"
 os = "linux"
 
     [[fmusim.download]]
-    sha256 = "2839b9a121d904e4567200e8af332f15f74113e39e25a2ed3e5565052d9a785f"
-    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.0.39001+0/fmusim.v0.0.39001.x86_64-linux-gnu.tar.gz"
+    sha256 = "00915c11a22d9cd1df03e704aecb600efea2e43433f547dbce86f750d562f2fc"
+    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.x86_64-linux-gnu.tar.gz"
 [[fmusim]]
 arch = "x86_64"
-git-tree-sha1 = "a693524d1ba397ec733e1c13f96bd0362499e580"
+git-tree-sha1 = "438e8053f183d90c4068f9010adf10862d1be678"
 os = "windows"
 
     [[fmusim.download]]
-    sha256 = "7899e6f7e48e2c267980e013e9349b5c5d007551edcf43095e7e6e7192717fc0"
-    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.0.39001+0/fmusim.v0.0.39001.x86_64-w64-mingw32.tar.gz"
+    sha256 = "7a12659fda16406ad71472a3c8efc660c289f643091be119068ae7fc44f0b769"
+    url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.x86_64-w64-mingw32.tar.gz"
