@@ -11,7 +11,7 @@ Sundials_jll = "fb77eaff-e24c-56d4-86b1-d163f2edb164"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "1.6"
+julia = "1.10"
 JLLWrappers = "1.7.0"
 XML2_jll = "2.15.3"
 Artifacts = "< 0.0.1, 1"

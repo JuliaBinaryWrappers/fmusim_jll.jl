@@ -34,9 +34,9 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.x86_64-linux-gnu.tar.gz"
 [[fmusim]]
 arch = "x86_64"
-git-tree-sha1 = "438e8053f183d90c4068f9010adf10862d1be678"
+git-tree-sha1 = "c4a96461fce74a93a7c8cf0faee3b0c1613f8166"
 os = "windows"
 
     [[fmusim.download]]
-    sha256 = "7a12659fda16406ad71472a3c8efc660c289f643091be119068ae7fc44f0b769"
+    sha256 = "cf050fcd8c4f0bc0ea92ea6a05216ddaebe3c23a3925d7c36eed4ac6ab3c3dbc"
     url = "https://github.com/JuliaBinaryWrappers/fmusim_jll.jl/releases/download/fmusim-v0.15.0+0/fmusim.v0.15.0.x86_64-w64-mingw32.tar.gz"
